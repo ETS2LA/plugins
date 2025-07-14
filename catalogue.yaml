@@ -1,0 +1,6 @@
+name: "ETS2LA Plugin Catalogue"
+plugins:
+  - name: "Example Plugin"
+    repository: "https://github.com/ETS2LA/example-plugin"
+catalogues:
+  
