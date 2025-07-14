@@ -14,4 +14,4 @@ plugins:
     repository: "https://github.com/ETS2LA/example-plugin"
   - name: "Example Plugin 7"
     repository: "https://github.com/ETS2LA/example-plugin"
-catalogues:
+catalogues: []
