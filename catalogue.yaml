@@ -2,6 +2,6 @@ name: "ETS2LA Plugin Catalogue"
 plugins:
   - name: "Sway Detection"
     repository: "https://github.com/Playzzero97/Sway-Detection"
-  - name: "Automatic Blinkers"
-    repository: "https://github.com/Playzzero97/AutoBlinker"
+  - name: "Example Plugin"
+    repository: "https://github.com/ETS2LA/example-plugin"
 catalogues: []
