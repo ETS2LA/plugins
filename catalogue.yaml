@@ -4,4 +4,6 @@ plugins:
     repository: "https://github.com/Playzzero97/Sway-Detection"
   - name: "Automatic Blinkers"
     repository: "https://github.com/Playzzero97/AutoBlinker"
+  - name: "Automatic Shifting (Manual Gearbox)"
+    repository: "https://github.com/Playzzero97/Automatic-Shifting--Manual-Transmission-"
 catalogues: []
