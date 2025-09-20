@@ -1,11 +1,13 @@
 name: "ETS2LA Plugin Catalogue"
 plugins:
-  - name: "Sway Detection"
-    repository: "https://github.com/Playzzero97/Sway-Detection"
+  - name: "Takeover on Braking"
+    repository: "https://github.com/Tumppi066/ETS2LA-Takeover-Plugin"
   - name: "Automatic Blinkers"
     repository: "https://github.com/Playzzero97/AutoBlinker"
   - name: "Automatic Shifting (Manual Gearbox)"
     repository: "https://github.com/Playzzero97/Automatic-Shifting--Manual-Transmission-"
+  - name: "Sway Detection"
+    repository: "https://github.com/Playzzero97/Sway-Detection"
   - name: "Bad Apple"
     repository: "https://github.com/Tumppi066/ETS2LA-Bad-Apple-Plugin"
 catalogues: []
