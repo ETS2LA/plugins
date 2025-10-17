@@ -10,4 +10,8 @@ plugins:
     repository: "https://github.com/Playzzero97/Sway-Detection"
   - name: "Bad Apple"
     repository: "https://github.com/Tumppi066/ETS2LA-Bad-Apple-Plugin"
+  - name: "Automatic Overtake"
+    repository: "https://github.com/reqt1m3out/Automatic-Overtake"
+  - name: "Toll Booth Assistant"
+    repository: "https://github.com/reqt1m3out/Toll-Booth-Assistant"
 catalogues: []
