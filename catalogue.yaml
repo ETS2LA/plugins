@@ -14,4 +14,6 @@ plugins:
     repository: "https://github.com/reqt1m3out/Automatic-Overtake"
   - name: "Toll Booth Assistant"
     repository: "https://github.com/reqt1m3out/Toll-Booth-Assistant"
+  - name: "[Experimental] High-Speed Map Mode"
+    repository: "https://github.com/Playzzero97/High-Speed-Map-Mode"
 catalogues: []
