@@ -11,7 +11,7 @@ plugins:
   - name: "Bad Apple"
     repository: "https://github.com/Tumppi066/ETS2LA-Bad-Apple-Plugin"
   - name: "Automatic Overtake"
-    repository: "https://github.com/reqt1m3out/Automatic-Overtake"
+    repository: "https://github.com/baobao-7799/ETS2LA-AutoOvertake"
   - name: "Toll Booth Assistant"
     repository: "https://github.com/reqt1m3out/Toll-Booth-Assistant"
   - name: "[Experimental] High-Speed Map Mode"
